@@ -1,4 +1,9 @@
 .idea
+lecture/.idea
+lecture/lecture.iml
+selfstudy/.idea
+selfstudy/selfstudy.iml
+
 *.iml
 out/
-Course/
+lecture/src/Course/
